@@ -18,6 +18,7 @@ namespace KaffeNetCore.tests
             var sortKaffe = new SortKaffe(35);
 
             int pris = sortKaffe.Pris();
+
         }
 
         [TestMethod]
