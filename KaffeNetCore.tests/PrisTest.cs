@@ -1,4 +1,5 @@
 using kaffe;
+using KaffeNetCore.kaffe;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace KaffeNetCore.tests
@@ -35,5 +36,17 @@ namespace KaffeNetCore.tests
 
             Assert.AreEqual(20, pris);
         }
+
+        [TestMethod]
+
+        public void TestMethodFlatWhite()
+        {
+            var flatWhite = new FlatWhite();
+
+            int pris = flatWhite.Pris();
+
+            Assert.AreEqual(45, pris);
+        }
+        
     }
 }

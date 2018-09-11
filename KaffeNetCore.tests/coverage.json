@@ -16,17 +16,17 @@
       "KaffeNetCore.kaffe.FlatWhite": {
         "System.Int32 KaffeNetCore.kaffe.FlatWhite::MlMælk()": {
           "Lines": {
-            "11": 0,
-            "12": 0,
-            "13": 0
+            "11": 1,
+            "12": 1,
+            "13": 1
           },
           "Branches": []
         },
         "System.Int32 KaffeNetCore.kaffe.FlatWhite::Pris()": {
           "Lines": {
-            "16": 0,
-            "17": 0,
-            "18": 0
+            "16": 1,
+            "17": 1,
+            "18": 1
           },
           "Branches": []
         },
@@ -44,9 +44,9 @@
       "kaffe.Cortado": {
         "System.Int32 kaffe.Cortado::MlMælk()": {
           "Lines": {
-            "16": 0,
-            "17": 0,
-            "18": 0
+            "16": 1,
+            "17": 1,
+            "18": 1
           },
           "Branches": []
         },
@@ -78,9 +78,9 @@
         },
         "System.Void kaffe.Kaffe::.ctor()": {
           "Lines": {
-            "41": 3,
-            "42": 3,
-            "44": 3
+            "41": 7,
+            "42": 7,
+            "44": 7
           },
           "Branches": []
         },
@@ -99,9 +99,9 @@
       "kaffe.Latte": {
         "System.Int32 kaffe.Latte::MlMælk()": {
           "Lines": {
-            "16": 0,
-            "17": 0,
-            "18": 0
+            "16": 1,
+            "17": 1,
+            "18": 1
           },
           "Branches": []
         },
