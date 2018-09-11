@@ -1,0 +1,167 @@
+{
+  "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore.tests\\bin\\Debug\\netcoreapp2.0\\KaffeNetCore.dll": {
+    "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\Program.cs": {
+      "KaffeNetCore.Program": {
+        "System.Void KaffeNetCore.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\kaffe\\FlatWhite.cs": {
+      "KaffeNetCore.kaffe.FlatWhite": {
+        "System.Int32 KaffeNetCore.kaffe.FlatWhite::MlMælk()": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 KaffeNetCore.kaffe.FlatWhite::Pris()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String KaffeNetCore.kaffe.FlatWhite::Styrke()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\kaffe\\Cortado.cs": {
+      "kaffe.Cortado": {
+        "System.Int32 kaffe.Cortado::MlMælk()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 kaffe.Cortado::Pris()": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\kaffe\\Kaffe.cs": {
+      "kaffe.Kaffe": {
+        "System.String kaffe.Kaffe::Styrke()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 kaffe.Kaffe::get_Rabat()": {
+          "Lines": {
+            "34": 0
+          },
+          "Branches": []
+        },
+        "System.Void kaffe.Kaffe::.ctor()": {
+          "Lines": {
+            "41": 1,
+            "42": 1,
+            "44": 1
+          },
+          "Branches": []
+        },
+        "System.Void kaffe.Kaffe::.ctor(System.Int32)": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\kaffe\\Latte.cs": {
+      "kaffe.Latte": {
+        "System.Int32 kaffe.Latte::MlMælk()": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 kaffe.Latte::Pris()": {
+          "Lines": {
+            "21": 1,
+            "22": 1,
+            "23": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\kaffe\\SortKaffe.cs": {
+      "kaffe.SortKaffe": {
+        "System.Int32 kaffe.SortKaffe::Pris()": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "25": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": [
+            {
+              "Line": 24,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 20,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void kaffe.SortKaffe::.ctor()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "38": 0
+          },
+          "Branches": []
+        },
+        "System.Void kaffe.SortKaffe::.ctor(System.Int32)": {
+          "Lines": {
+            "45": 0,
+            "46": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
