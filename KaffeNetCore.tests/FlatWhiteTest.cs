@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace KaffeNetCore.tests
 {
     [TestClass]
-    public class StyrkeTest
+    public class FlatWhiteTest
     {
         [TestMethod]
 
@@ -21,14 +21,25 @@ namespace KaffeNetCore.tests
         }
 
         [TestMethod]
-
-        public void TestMethodSortKaffeStyrke()
+        public void TestMethodFlatWhiteMælk()
         {
-            var sortKaffe = new SortKaffe();
+            var flatWhite = new FlatWhite();
 
-            string styrke = sortKaffe.Styrke();
+            int mælk = flatWhite.MlMælk();
 
-            Assert.AreEqual("stærk", styrke);
+            Assert.AreEqual(160, mælk);
         }
+
+        [TestMethod]
+
+        public void TestMethodFlatWhite()
+        {
+            var flatWhite = new FlatWhite();
+
+            int pris = flatWhite.Pris();
+
+            Assert.AreEqual(45, pris);
+        }
+
     }
 }

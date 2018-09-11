@@ -2,11 +2,11 @@
   "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore.tests\\bin\\Debug\\netcoreapp2.0\\KaffeNetCore.dll": {
     "C:\\source\\opgaver\\kaffenetcoretest-Frederik1988\\KaffeNetCore\\Program.cs": {
       "KaffeNetCore.Program": {
-        "System.Void KaffeNetCore.Program::Main(System.String[])": {
+        "System.Void KaffeNetCore.Program::Main()": {
           "Lines": {
-            "8": 0,
-            "9": 0,
-            "10": 0
+            "10": 1,
+            "11": 1,
+            "12": 1
           },
           "Branches": []
         }
@@ -72,24 +72,24 @@
         },
         "System.Int32 kaffe.Kaffe::get_Rabat()": {
           "Lines": {
-            "34": 1
+            "34": 5
           },
           "Branches": []
         },
         "System.Void kaffe.Kaffe::.ctor()": {
           "Lines": {
-            "41": 9,
-            "42": 9,
-            "44": 9
+            "41": 10,
+            "42": 10,
+            "44": 10
           },
           "Branches": []
         },
         "System.Void kaffe.Kaffe::.ctor(System.Int32)": {
           "Lines": {
-            "46": 0,
-            "47": 0,
-            "48": 0,
-            "49": 0
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1
           },
           "Branches": []
         }
@@ -119,12 +119,12 @@
       "kaffe.SortKaffe": {
         "System.Int32 kaffe.SortKaffe::Pris()": {
           "Lines": {
-            "21": 1,
-            "22": 1,
-            "24": 1,
-            "25": 0,
-            "27": 1,
-            "28": 1
+            "21": 3,
+            "22": 3,
+            "24": 3,
+            "25": 1,
+            "27": 2,
+            "28": 2
           },
           "Branches": [
             {
@@ -133,7 +133,7 @@
               "EndOffset": 22,
               "Path": 0,
               "Ordinal": 0,
-              "Hits": 0
+              "Hits": 1
             },
             {
               "Line": 24,
@@ -141,23 +141,23 @@
               "EndOffset": 33,
               "Path": 1,
               "Ordinal": 1,
-              "Hits": 1
+              "Hits": 2
             }
           ]
         },
         "System.Void kaffe.SortKaffe::.ctor()": {
           "Lines": {
-            "35": 2,
-            "36": 2,
-            "38": 2
+            "35": 3,
+            "36": 3,
+            "38": 3
           },
           "Branches": []
         },
         "System.Void kaffe.SortKaffe::.ctor(System.Int32)": {
           "Lines": {
-            "45": 0,
-            "46": 0,
-            "48": 0
+            "45": 1,
+            "46": 1,
+            "48": 1
           },
           "Branches": []
         }

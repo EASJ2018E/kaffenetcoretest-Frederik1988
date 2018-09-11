@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace KaffeNetCore.tests
 {
     [TestClass]
-    public class MælkTest
+    public class LatteTest
     {
         [TestMethod]
         public void TestMethodLatteMælk()
@@ -18,24 +18,15 @@ namespace KaffeNetCore.tests
         }
 
         [TestMethod]
-        public void TestMethodFlatWhiteMælk()
+        public void TestMethodLattePris()
         {
-            var flatWhite = new FlatWhite();
+            var latte = new Latte();
 
-            int mælk = flatWhite.MlMælk();
+            int pris = latte.Pris();
 
-            Assert.AreEqual(160, mælk);
+            Assert.AreEqual(40, pris);
         }
 
-        [TestMethod]
 
-        public void TestMethodCortadoMælk()
-        {
-            var cortado = new Cortado();
-
-            int mælk = cortado.MlMælk();
-
-            Assert.AreEqual(25, mælk);
-        }
     }
 }
