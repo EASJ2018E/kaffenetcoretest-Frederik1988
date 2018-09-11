@@ -32,9 +32,9 @@
         },
         "System.String KaffeNetCore.kaffe.FlatWhite::Styrke()": {
           "Lines": {
-            "21": 0,
-            "22": 0,
-            "23": 0
+            "21": 1,
+            "22": 1,
+            "23": 1
           },
           "Branches": []
         }
@@ -64,9 +64,9 @@
       "kaffe.Kaffe": {
         "System.String kaffe.Kaffe::Styrke()": {
           "Lines": {
-            "27": 0,
-            "28": 0,
-            "29": 0
+            "27": 1,
+            "28": 1,
+            "29": 1
           },
           "Branches": []
         },
@@ -78,9 +78,9 @@
         },
         "System.Void kaffe.Kaffe::.ctor()": {
           "Lines": {
-            "41": 7,
-            "42": 7,
-            "44": 7
+            "41": 9,
+            "42": 9,
+            "44": 9
           },
           "Branches": []
         },
@@ -147,9 +147,9 @@
         },
         "System.Void kaffe.SortKaffe::.ctor()": {
           "Lines": {
-            "35": 1,
-            "36": 1,
-            "38": 1
+            "35": 2,
+            "36": 2,
+            "38": 2
           },
           "Branches": []
         },
